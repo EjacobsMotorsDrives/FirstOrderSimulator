@@ -4,6 +4,9 @@
 
 this consist of three layers a  TUI frontend a wave generator middle layer and the simulation backend
 
+We are adding content to the readme and 
+creating a new branch from main 
+
 ## TUI 
 ---
 - the TUI will take prompt the user for input from a discrete set of   acctions.
